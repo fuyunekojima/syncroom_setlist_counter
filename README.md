@@ -1,0 +1,2 @@
+# syncroom_setlist_counter
+シンクルームの曲目シートにカウンタを追加する的なアレ
